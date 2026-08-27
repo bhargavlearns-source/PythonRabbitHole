@@ -1,0 +1,11 @@
+Python executation process is more complex than c and assembly because python do not interact with the cpu directly.
+
+Python uses a Python virtual machine in order to convert the byte instructions to machine code.
+
+Python code firstly get tokenised, during this process the python code is broken down into smaller pieces called tokens.
+
+After tokenization, Python parses those tokens and creates a structure representing the code, commonly understood as an Abstract Syntax Tree (AST). This process also checks whether the code follows Python's grammar and syntax rules.
+
+Then code is complied to byte code which is executed by PVM.
+
+The main point which we need to keep in mind is that PVM is a python intreperter, which in most of the cases is Cpython and it is written in C language. Therefore, PVM is simply complied code of C language which is used for executing the byte code. 
