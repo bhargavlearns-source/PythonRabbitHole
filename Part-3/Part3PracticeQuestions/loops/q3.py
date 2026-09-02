@@ -1,0 +1,2 @@
+for i in range(10,0,-1): #yeah negative steps exist
+    print(i)

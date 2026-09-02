@@ -243,29 +243,8 @@ names = ["bhargav", "python", "coding"]
 words = ["apple", "banana", "cat", "programming"]
 
 
-# Q8 — Given this list, remove all negative numbers:
 
-numbers = [-5, 10, -2, 7, 0, -9, 15]
-
-
-# Q9 — Create a list containing numbers from 1 to 20
-# that are divisible by BOTH 2 and 3
-
-
-# Q10 — Given this string, create a list containing only vowels:
-
-text = "Programming"
-
-
-# Q11 — Replace every negative number with 0:
-
-numbers = [10, -5, 20, -3, 0, -8]
-
-# Expected:
-# [10, 0, 20, 0, 0, 0]
-
-
-# Q12 — Create all possible pairs using nested list comprehension:
+# Q8 — Create all possible pairs using nested list comprehension:
 
 list1 = [1, 2]
 list2 = ["a", "b"]
