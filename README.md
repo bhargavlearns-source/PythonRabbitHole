@@ -2,7 +2,7 @@
 
 Welcome to my **Python learning journey**.
 
-This repository documents my journey of learning Python—from understanding the fundamentals to exploring Python's deeper concepts and eventually using it for more advanced applications.
+This repository documents my journey of learning Python—from understanding the fundamentals to exploring Python's deeper concepts and eventually using it for more advanced applications. I am taking Learning Python by Mark Lutz as a refrence for this repo!
 
 ## 📚 What's Inside?
 
