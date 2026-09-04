@@ -267,7 +267,7 @@ The test has 4 sections:
 - Section B: 8 Predict-the-Output questions (2 marks each)
 - Section C: 5 Find-the-Bug questions (2 marks each)
 - Section D: 7 Pure code-writing questions (3 marks each)
-Total: 65 marks.
+Total: 57 marks.
 
 Below are my answers. Please:
 1. Grade each answer as correct/incorrect/partial, with the mark
